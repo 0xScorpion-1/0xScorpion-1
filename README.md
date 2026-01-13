@@ -62,7 +62,9 @@ You can find My Work in Cyber Security here in my official website ->
   <div style="flex-shrink: 0;">
     <img src="https://images.steamusercontent.com/ugc/62593425882666900/210603E46FEA03C1DBD5AC4E35B5056B2EE92296/?imw=637&imh=358&ima=fit"
          width="260"
-         style="border-radius: 12px;" />
+         style="border-radius: 12px;" 
+         align ="center";
+      />
   </div>
 
 </div>
