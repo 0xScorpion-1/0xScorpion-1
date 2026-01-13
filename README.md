@@ -23,10 +23,10 @@ You can find My Work in Cyber Security here in my official website ->
 </p>
 
 <ul>
-  <li>👨‍🎓 I'm a Student @ Faculty of Science { SIM }</li>
-  <li>🎯 All my project in Universty you can find them with a good description in Github</li>
+  <h3>👨‍🎓 I'm a Student @ Faculty of Science { SIM } Alexandria University</h3>
+  <h3>🎯 All my project in Universty you can find them with a good description in Github</h3>
   
-  <li>💬 Feel free to Ask me about anything in Cyber Security </li>
+  <h3>💬 Feel free to Ask me about anything in Cyber Security </h3>
 </ul>
 
 <br />
