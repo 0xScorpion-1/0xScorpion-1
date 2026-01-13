@@ -17,10 +17,10 @@
 
 <br />
 
-<h5>
+<h4>
 I’m a software developer who is passionate about Technology also having a profissional skills in Hacking.
 You can find My Work in Cyber Security here in my official website -> 
-</h5>
+</h4>
 
 <ul>
   <h3>👨‍🎓 I'm a Student @ Faculty of Science { SIM } Alexandria University</h3>
@@ -61,7 +61,7 @@ You can find My Work in Cyber Security here in my official website ->
   <!-- RIGHT SIDE : IMAGE -->
   <div align="center">
     <img src="https://images.steamusercontent.com/ugc/62593425882666900/210603E46FEA03C1DBD5AC4E35B5056B2EE92296/?imw=637&imh=358&ima=fit"
-         width="400"
+         width="350"
          height="400"
          style="border-radius: 12px;" 
          />
