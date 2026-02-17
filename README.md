@@ -60,7 +60,7 @@ You can find My Work in Cyber Security here in my official website -> https://0x
 
   <!-- RIGHT SIDE : IMAGE -->
   <div align="center">
-    <img src="https://maniaqc.artstation.com/projects/L2leJ5"
+    <img src="https://cdna.artstation.com/p/assets/images/images/018/389/880/original/alexandre-grenier-marcil-scorpion-final.gif?1559186470"
          width="350"
          height="400"
          style="border-radius: 12px;" 
